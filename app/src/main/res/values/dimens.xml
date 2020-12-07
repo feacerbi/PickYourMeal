@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recipe_card_headline_margin">8dp</dimen>
+    <dimen name="recipe_card_elevation">8dp</dimen>
+    <dimen name="recipe_card_corner_radius">6dp</dimen>
+    <dimen name="recipe_card_padding">16dp</dimen>
+    <dimen name="recipe_card_margin">8dp</dimen>
+
+    <dimen name="date_top_padding">24dp</dimen>
+    <dimen name="date_bottom_padding">16dp</dimen>
+    <dimen name="date_side_padding">16dp</dimen>
+    <dimen name="date_text_size">18sp</dimen>
+</resources>

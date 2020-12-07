@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pick Your Meal</string>
+
+    <string name="recipe_picture_content_description">Recipe\'s picture</string>
+
+    <string name="network_error">Network error</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="empty_list_message">No recipes to show</string>
+</resources>
